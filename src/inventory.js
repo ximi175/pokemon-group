@@ -70,7 +70,6 @@ class BackPack extends Inventory {
   }
 }
 
-const player = new BackPack();
-player.addItem("potion", "10");
-player.addItem("potion", "10");
-player.getItems();
+// const player = new BackPack();
+// player.addItem("potion", "10");
+// player.getItems();
